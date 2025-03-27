@@ -1,4 +1,4 @@
-# Thailand(2017-2023): Analyzing the Relationship Between Average Monthly Income, Expenses, and GDP
+# Thailand(2013-2023): Analyzing the Relationship Between Average Monthly Income, Expenses, and GDP
 ## Table of Contents
 1. [Introduction](#1-Introduction)
 2. [Trend Analysis](#2-Trend-Analysis)
@@ -10,7 +10,7 @@
 
 
 ## 1. Introduction
-We present the relationship between average monthly income, expenses, and GDP in Thailand (2017-2023) to better understand how economic growth affects people’s earnings and spending habits. 
+We present the relationship between average monthly income, expenses, and GDP in Thailand (2013-2023) to better understand how economic growth affects people’s earnings and spending habits. 
 By analyzing data, we can see whether higher GDP leads to higher income and expenses or if other factors influence financial stability.
 We will use correlation analysis to measure how strongly these factors are connected. This will help identify trends in household spending, income growth, and economic well-being.
 The results of this study can provide useful insights for policymakers, businesses, and individuals to make informed financial and economic decisions.
