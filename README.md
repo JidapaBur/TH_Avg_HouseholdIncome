@@ -20,7 +20,9 @@ The results of this study can provide useful insights for policymakers, business
 
 ---
 
-
+<p align="center">
+  <img width="80%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense.png">
+</p>
 
 
 
