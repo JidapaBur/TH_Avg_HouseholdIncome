@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [Introduction](#1-Introduction)
 2. [Trend Analysis](#2-Trend-Analysis)
-3. [Income-Expenses ratio with GDP](#3-Income-Expenses-ratio-with-GDP)
+3. [The Ratio of Income-Expenses to GDP](#3-The-Ratio-of-Income-Expenses-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
 6. [Income Growth vs. GDP Growth](#6-Income-Growth-vs.-GDP-Growth)
@@ -18,16 +18,28 @@ The results of this study can provide useful insights for policymakers, business
 
 ## 2. Trend Analysis
 
----
+
 
 <p align="center">
-  <img width="80%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gap.png">
 </p>
 
+---
 
 
+## 3. Calculate the Ratio of Income-Expenses to GDP
 
+- Formula
 
+        Average Income Ratio to GDP =  Average Monthly Income x 12
+                                    ----------------------------
+                                         GDP per Capita
+
+        Average Expense Ratio to GDP = Average Monthly Expenses x 12
+                                    ----------------------------
+                                         GDP per Capita
+
+- If the expense ratio is higher than the income ratio, it may reflect an increase in household debt.
 
 
 ## 7. References
