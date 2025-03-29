@@ -42,6 +42,13 @@ The results of this study can provide useful insights for policymakers, business
 - If the expense ratio is higher than the income ratio, it may reflect an increase in household debt.
 
 
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/Income_Expense%20Ratios%20to%20GDP.png">
+</p>
+
+---
+
+
 ## 7. References
 Average Income (Regional level)
 * website: https://data.go.th/dataset/ns_08_20241
