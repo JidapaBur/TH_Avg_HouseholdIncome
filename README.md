@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [Introduction](#1-Introduction)
 2. [Trend Analysis](#2-Trend-Analysis)
-3. [The Ratio of Income-Expenses to GDP](#3-The-Ratio-of-Income-Expenses-to-GDP)
+3. [The Ratio of Income-Expense to GDP](#3-The-Ratio-of-Income-Expense-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
 6. [Income Growth vs. GDP Growth](#6-Income-Growth-vs.-GDP-Growth)
@@ -27,7 +27,7 @@ The results of this study can provide useful insights for policymakers, business
 ---
 
 
-## 3. Calculate the Ratio of Income-Expenses to GDP
+## 3. Calculate the Ratio of Income-Expense to GDP
 
 - Formula
 
@@ -43,10 +43,10 @@ The results of this study can provide useful insights for policymakers, business
 
 
 ## 7. References
-Average Income (ระดับภูมิภาค)
+Average Income (Regional level)
 * website: https://data.go.th/dataset/ns_08_20241
 
-Average Expenses (ระดับภูมิภาค)
+Average Expenses (Regional level)
 * website: https://data.go.th/dataset/os_08_00009-
 
 GDP
