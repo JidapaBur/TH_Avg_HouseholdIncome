@@ -5,7 +5,7 @@
 3. [The Ratio of Income-Expense to GDP](#3-The-Ratio-of-Income-Expense-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
-6. [References](#6-Reference)
+6. [References](#6-References)
 
 
 ## 1. Introduction
@@ -96,6 +96,16 @@ Although the proportion of expenses to GDP is lower than the proportion of incom
 
 ---
 
+
+## 4. Correlation Analysis
+
+
+---
+
+## 5. Purchasing Power
+
+
+---
 
 ## 6. References
 Average Income (Regional level)
