@@ -38,7 +38,8 @@ The results of this study can provide useful insights for policymakers, business
 ---
 
 <p align="center">
-  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.1%20Comparing%20Household%20Income%20with%20GDP%20per%20Household.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.1%20Comparing%20Household%20Income%20with%20GDP%20per%20Household.png">              
+Figure 1: Comparing Household Income with GDP per Household 
 </p>
 
 
@@ -56,7 +57,10 @@ The disparity suggests income inequality, where GDP growth is driven by business
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.2%20Comparing%20Household%20Expenses%20with%20Income.png">
+Figure 2: Comparing Household Expenses with Income
 </p>
+
+
 
 Household Expenses account for 75% of Income, leaving minimal savings.
 
@@ -66,6 +70,7 @@ Household Expenses account for 75% of Income, leaving minimal savings.
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.3%20The%20Gap%20between%20Income%20and%20Expenses.png">
+Figure 3: The Gap between Income and Expenses
 </p>
 
 Although income has increased, expenses have also risen. The gap between income and expenses has shown a declining trend each year.
@@ -90,6 +95,7 @@ Although income has increased, expenses have also risen. The gap between income 
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/3.%20The%20Ratio%20of%20Income-Expense%20to%20GDP(%25).png">
+Figure 4: The Ratio of Income-Expense to GDP
 </p>
 
 Although the proportion of expenses to GDP is lower than the proportion of income to GDP, the gap between income and expenses has continued to narrow in recent years.
@@ -108,12 +114,13 @@ Although the proportion of expenses to GDP is lower than the proportion of incom
 ---
 
 ## 6. References
-Average Income (Regional level)
-* website: https://data.go.th/dataset/ns_08_20241
 
-Average Expenses (Regional level)
-* website: https://data.go.th/dataset/os_08_00009-
+<div align="center">
 
-GDP
-* website: https://www.nesdc.go.th/main.php?filename=qgdp_page
-* Table Reference: Table 3_Gross Domestic Product at Current Market Prices (Original)
+| **Dataset** | **Detail**  | **Source** |
+| :------------: | :------------: | :------------: |
+| TH Household Income | Regional level, 2021-2023 | [data.go.th](https://data.go.th/dataset/ns_08_20241)   |
+| TH Household Expense | Regional level, 2021-2023 | [data.go.th](https://data.go.th/dataset/os_08_00009-)  |
+| TH Gross Domestic Product | Use Table 3_Gross Domestic Product at Current Market Prices (Original) | [nesdc.go.th](https://www.nesdc.go.th/main.php?filename=qgdp_page)  |
+
+</div>
