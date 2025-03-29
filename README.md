@@ -18,7 +18,13 @@ The results of this study can provide useful insights for policymakers, business
 
 ## 2. Trend Analysis
 
+---
 
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gdp.png">
+</p>
+
+---
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gap.png">
