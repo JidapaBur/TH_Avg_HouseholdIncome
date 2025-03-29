@@ -1,4 +1,4 @@
-# Thailand(2011-2023): Analyzing the Relationship Between Average Monthly Income, Expenses, and GDP
+# Thailand(2011-2023): Thailand(2011-2023): Analysis of Household Average Monthly Income, Expense, and GDP
 ## Table of Contents
 1. [Introduction](#1-Introduction)
 2. [Trend Analysis](#2-Trend-Analysis)
@@ -18,32 +18,73 @@ The results of this study can provide useful insights for policymakers, business
 
 ## 2. Trend Analysis
 
+### 2.1 Comparing Household Income with GDP per Household
+
+- Formula: GDP per Capita
+
+       GDP per Capita per year =  Total GDP per year
+                                  ___________________
+                                     Population
+  
+       GDP per Capita per month =  GDP per Capita per year
+                                  ________________________
+                                            12
+
+- Formula: GDP per Household
+  
+       GDP per Household =      GDP per Capita per month
+                           _______________________________
+                                Average Household size
+
 ---
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gdp.png">
 </p>
 
+
+> [!NOTE]
+> Calculate GDP per Household: Given assumption of Population = 66 Million people, Average Household size = 2.5 people
+
+
+The average household income is LOWER THAN the GDP per household.
+This indicates that Thai household earn less than the expected GDP share per household.
+The disparity suggests income inequality, where GDP growth is driven by business and exports rather than increased earnings for the general population. 
+
 ---
+
+### 2.2 Comparing Household Expenses with Income
+
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/Expenses%20Ratios%20with%20Income.png">
+</p>
+
+Household Expenses account for 75% of Income, leaving minimal savings.
+
+---
+
+### 2.3 The Gap between Income and Expenses
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gap.png">
 </p>
+
+Although income has increased, expenses have also risen. The gap between income and expenses has shown a declining trend each year.
 
 ---
 
 
 ## 3. Calculate the Ratio of Income-Expense to GDP
 
-- Formula
+- Formula: the Ratio of Income-Expense to GDP
 
         Average Income Ratio to GDP =  Average Monthly Income x 12
-                                    ----------------------------
-                                         GDP per Capita
+                                      ____________________________
+                                         GDP per Household
 
         Average Expense Ratio to GDP = Average Monthly Expenses x 12
-                                    ----------------------------
-                                         GDP per Capita
+                                      ______________________________
+                                         GDP per Household
 
 - If the expense ratio is higher than the income ratio, it may reflect an increase in household debt.
 
