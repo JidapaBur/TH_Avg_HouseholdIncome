@@ -5,8 +5,7 @@
 3. [The Ratio of Income-Expense to GDP](#3-The-Ratio-of-Income-Expense-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
-6. [Income Growth vs. GDP Growth](#6-Income-Growth-vs.-GDP-Growth)
-7. [References](#Reference)
+6. [References](#Reference)
 
 
 ## 1. Introduction
@@ -98,7 +97,7 @@ Although the proportion of expenses to GDP is lower than the proportion of incom
 ---
 
 
-## 7. References
+## 6. References
 Average Income (Regional level)
 * website: https://data.go.th/dataset/ns_08_20241
 
