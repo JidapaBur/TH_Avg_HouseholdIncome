@@ -39,7 +39,7 @@ The results of this study can provide useful insights for policymakers, business
 ---
 
 <p align="center">
-  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gdp.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.1%20Comparing%20Household%20Income%20with%20GDP%20per%20Household.png">
 </p>
 
 
@@ -56,7 +56,7 @@ The disparity suggests income inequality, where GDP growth is driven by business
 ### 2.2 Comparing Household Expenses with Income
 
 <p align="center">
-  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/Expenses%20Ratios%20with%20Income.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.2%20Comparing%20Household%20Expenses%20with%20Income.png">
 </p>
 
 Household Expenses account for 75% of Income, leaving minimal savings.
@@ -66,7 +66,7 @@ Household Expenses account for 75% of Income, leaving minimal savings.
 ### 2.3 The Gap between Income and Expenses
 
 <p align="center">
-  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/monthly_income_expense_gap.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.3%20The%20Gap%20between%20Income%20and%20Expenses.png">
 </p>
 
 Although income has increased, expenses have also risen. The gap between income and expenses has shown a declining trend each year.
@@ -90,7 +90,7 @@ Although income has increased, expenses have also risen. The gap between income 
 
 
 <p align="center">
-  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/Income_Expense%20Ratios%20to%20GDP.png">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/3.%20The%20Ratio%20of%20Income-Expense%20to%20GDP(%25).png">
 </p>
 
 Although the proportion of expenses to GDP is lower than the proportion of income to GDP, the gap between income and expenses has continued to narrow in recent years.
