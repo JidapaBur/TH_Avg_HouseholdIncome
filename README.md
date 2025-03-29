@@ -6,7 +6,8 @@
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
 6. [Inflation Analysis](#6-Inflation-Analysis)
-7. [References](#7-References)
+7. [Conclusion](#7-Conclusion)
+8. [References](#7-References)
 
 
 ## 1. Introduction
@@ -196,7 +197,19 @@ Figure 7.2: Wage vs Inflation
 
 
 ---
-## 7. References
+## 7. Conclusion
+
+An analysis of historical income and expenditure data reveals a consistent year-on-year increase in both income and expenses among the Thai population. However, the rate of expenditure growth has outpaced that of income, resulting in reduced savings and an increased likelihood of household debt. This trend suggests that many individuals are compelled to borrow due to financial necessities exceeding their income.
+
+Further analysis across multiple economic dimensions—such as Gross Domestic Product (GDP), inflation rate, and minimum wage—indicates that all these factors contribute to the rising cost of living. Among them, the most significant impact stems from the rising cost of living, which has increased at a rate higher than inflation.
+
+This surge in the cost of living is largely attributed to rising production and service costs, especially in essential utilities such as fuel and electricity. These energy costs are noticeably higher in Thailand compared to neighboring countries in the same region
+
+
+---
+
+
+## 8. References
 
 <div align="center">
 
