@@ -93,6 +93,8 @@ Although income has increased, expenses have also risen. The gap between income 
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/Income_Expense%20Ratios%20to%20GDP.png">
 </p>
 
+Although the proportion of expenses to GDP is lower than the proportion of income to GDP, the gap between income and expenses has continued to narrow in recent years.
+
 ---
 
 
