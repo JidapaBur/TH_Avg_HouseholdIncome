@@ -1,4 +1,4 @@
-# Thailand(2011-2023): Thailand(2011-2023): Analysis of Household Average Monthly Income, Expense, and GDP
+# Thailand(2011-2023): Analysis of Household Average Monthly Income, Expense, and GDP
 ## Table of Contents
 1. [Introduction](#1-Introduction)
 2. [Trend Analysis](#2-Trend-Analysis)
