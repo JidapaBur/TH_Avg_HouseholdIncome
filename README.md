@@ -5,7 +5,8 @@
 3. [The Ratio of Income-Expense to GDP](#3-The-Ratio-of-Income-Expense-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
-6. [References](#6-References)
+6. [Inflation Analysis](#6-Inflation-Analysis)
+7. [References](#7-References)
 
 
 ## 1. Introduction
@@ -59,7 +60,7 @@ The disparity suggests income inequality, where GDP growth is driven by business
 
 <p align="center">
   <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.2%20Comparing%20Household%20Expenses%20with%20Income.png">
-Figure 2: Comparing Household Expenses with Income
+Figure 2.1: Comparing Household Expenses with Income
 </p>
 
 
@@ -67,6 +68,23 @@ Figure 2: Comparing Household Expenses with Income
 Household Expenses account for 75% of Income, leaving minimal savings.
 
 ---
+
+
+### 2.2.1 Comparing Household Expenses by type
+
+<p align="center">
+<img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.2.1%20Comparing%20Household%20Expenses%20by%20type.png">
+Figure 2.2: Comparing Household Expenses with Income
+</p>
+
+
+
+---
+
+
+
+
+
 
 ### 2.3 The Gap between Income and Expenses
 
@@ -107,15 +125,78 @@ Although the proportion of expenses to GDP is lower than the proportion of incom
 
 ## 4. Correlation Analysis
 
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/4.%20Correlation%20Analysis.png">
+Figure 5: Correlation Analysis
+</p>
+
+
+Relationship Correlation Coefficient Interpretation
+
+Income ↔ Expenses 0.99 ✅ Very strong positive correlation
+
+Income ↔ GDP 0.85 ✅ Strong positive correlation
+
+Expenses ↔ GDP 0.89 ✅ Strong positive correlation
+
+Income and expenses tend to move together almost all the time. Both income and expenses show a positive correlation with the country's GDP.
+
 
 ---
 
 ## 5. Purchasing Power
 
+       Purchasing Power =   Income 
+                           _________
+                            Expenses
+
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/5.%20Purchasing%20Power.png">
+Figure 6: Purchasing Power
+</p>
+
+
+A higher value indicates more money remaining after expenses, reflecting greater purchasing power.
+
+📉 Observed Trends:
+
+2011–2013: Purchasing power remained above 1.3, indicating relatively strong consumer capacity.
+
+2015–2023: A steady decline in purchasing power was observed.
+
+Most recent year (2023): Purchasing power dropped to approximately 1.23, suggesting that expenses are now closer to income levels.
+
+📝 Policy Implications:
+
+The rising cost of living may be eroding the purchasing power of Thai households.
+
+Income growth is not keeping pace with the increase in expenses, posing challenges to household financial stability.
+
 
 ---
 
-## 6. References
+## 6. Inflation Analysis
+
+### 6.1 Income vs Rate
+- 6.1.1 Income Growth vs Inflation Rate
+- 6.1.2 Accumulated Income vs Inflation
+
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/6.1%20Income%20Growth%20vs%20Inflation%20Rate.png">
+Figure 7.1: Income vs Rate
+</p>
+
+### 6.2 Wage vs Inflation
+- 6.2.1 Wage Growth vs Inflation Rate
+- 6.2.2 Accumulated Minimum Wage vs Inflation
+<p align="center">
+  <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/6.2%20Wage%20Growth%20vs%20Inflation%20Rate.png">
+Figure 7.2: Wage vs Inflation
+</p>
+
+
+---
+## 7. References
 
 <div align="center">
 
