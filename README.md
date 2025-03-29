@@ -5,7 +5,7 @@
 3. [The Ratio of Income-Expense to GDP](#3-The-Ratio-of-Income-Expense-to-GDP)
 4. [Correlation Analysis](#4-Correlation-Analysis)
 5. [Purchasing Power](#5-Purchasing-Power)
-6. [References](#Reference)
+6. [References](#6-Reference)
 
 
 ## 1. Introduction
@@ -73,7 +73,7 @@ Although income has increased, expenses have also risen. The gap between income 
 ---
 
 
-## 3. Calculate the Ratio of Income-Expense to GDP
+## 3. The Ratio of Income-Expense to GDP
 
 - Formula: the Ratio of Income-Expense to GDP
 
