@@ -75,7 +75,7 @@ Household Expenses account for 75% of Income, leaving minimal savings.
 
 <p align="center">
 <img width="100%" src="https://github.com/JidapaBur/TH_Avg_HouseholdIncome/blob/main/images/2.2.1%20Comparing%20Household%20Expenses%20by%20type.png">
-Figure 2.2: Comparing Household Expenses with Income
+Figure 2.2: Comparing Household Expenses by type
 </p>
 
 
