@@ -178,7 +178,7 @@ Income growth is not keeping pace with the increase in expenses, posing challeng
 
 ## 6. Inflation Analysis
 
-### 6.1 Income vs Rate
+### 6.1 Income vs Inflation
 - 6.1.1 Income Growth vs Inflation Rate
 - 6.1.2 Accumulated Income vs Inflation
 
