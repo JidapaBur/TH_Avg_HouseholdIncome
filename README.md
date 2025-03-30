@@ -218,5 +218,6 @@ This surge in the cost of living is largely attributed to rising production and 
 | TH Household Income | Regional level, 2021-2023 | [data.go.th](https://data.go.th/dataset/ns_08_20241)   |
 | TH Household Expense | Regional level, 2021-2023 | [data.go.th](https://data.go.th/dataset/os_08_00009-)  |
 | TH Gross Domestic Product | Use Table 3_Gross Domestic Product at Current Market Prices (Original) | [nesdc.go.th](https://www.nesdc.go.th/main.php?filename=qgdp_page)  |
-
+| Thailand Inflation Rate 1960-2025 | - | [macrotrends.net](https://www.macrotrends.net/global-metrics/countries/tha/thailand/inflation-rate-cpi)   |
+| 20 ปี แรงงานไทย 'ค่าแรงขั้นต่ำ' | - | [www.khaosod.co.th](https://www.khaosod.co.th/special-stories/news_8010282)  |
 </div>
